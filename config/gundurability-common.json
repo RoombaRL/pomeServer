@@ -2,7 +2,7 @@
   "maxDurability": 2000,
   "inaccuracyRate": 500,
   "doGunsBreak": false,
-  "jamChance": 15,
+  "jamChance": 0,
   "biomeModifiers": [
     {
       "biomeName": "minecraft:desert",
